@@ -1,7 +1,4 @@
 {
-  "engines": {
-  "node": "^24"
-}
   "name": "my-web-app",
   "version": "1.0.0",
   "description": "A simple web app for Azure DevOps practice.",
