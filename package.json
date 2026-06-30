@@ -1,6 +1,6 @@
 {
   "engines": {
-  "node": "~24.x"
+  "node": "^24"
 }
   "name": "my-web-app",
   "version": "1.0.0",
